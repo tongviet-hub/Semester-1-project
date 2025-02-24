@@ -514,3 +514,4 @@ panel.pack(padx=10, pady=10)
 
 # Chạy giao diện Tkinter
 window.mainloop()
+#12344563
